@@ -1,12 +1,16 @@
-# Hi, I'm Ahmad Mujtaba 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I%27m+Ahmad+Mujtaba+%F0%9F%91%8B;AI+%26+Automation+Developer+%F0%9F%A4%96;n8n+Workflow+Automation+Specialist+%E2%9A%A1;Voice+AI+%26+RAG+Engineer+%F0%9F%8F%99%FE%8F" alt="Typing SVG" />
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
-[![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
-[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+<p align="center">
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /></a>
+  <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" /></a>
+  <a href="https://langchain.com"><img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" /></a>
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+</p>
 
 I'm an **AI & Automation Developer** from Pakistan, specializing in **n8n workflow automation**, **Python backend microservices**, and **LLM integrations**. Experienced in building autonomous AI agents, Retrieval-Augmented Generation (RAG) pipelines, and Voice AI assistants using LiveKit, Deepgram, and ElevenLabs.
 
@@ -81,11 +85,11 @@ I'm an **AI & Automation Developer** from Pakistan, specializing in **n8n workfl
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadMujtaba-AI&theme=2077" alt="Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadMujtaba-AI&theme=2077" alt="GitHub Stats" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadMujtaba-AI&theme=2077" alt="Top Languages" width="48%" />
 </p>
 
-
+---
 
 ### 🐍 Contribution Snake
 
@@ -100,6 +104,8 @@ I'm an **AI & Automation Developer** from Pakistan, specializing in **n8n workfl
 - 📱 **WhatsApp / Phone**: +92 344 0314568
 - 📍 **Location**: Lahore, Pakistan (Open to Remote Globally)
 
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?AhmadMujtaba-AI&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AhmadMujtaba-AI&color=7952b3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
