@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hi, I'm Ahmad Mujtaba 👋
 
-<!--
-**AhmadMujtaba-AI/AhmadMujtaba-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
+[![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 
-Here are some ideas to get you started:
+I'm an **AI & Automation Developer** from Pakistan, specializing in **n8n workflow automation**, **Python backend microservices**, and **LLM integrations**. Experienced in building autonomous AI agents, Retrieval-Augmented Generation (RAG) pipelines, and Voice AI assistants using LiveKit, Deepgram, and ElevenLabs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 What I Do
+
+- 🤖 **Autonomous AI Agents & Chatbots**: Multi-turn memory, intent recognition, contextual reasoning, and voice AI streaming.
+- ⚡ **Workflow Automation (n8n)**: End-to-end automation connecting LLMs, REST APIs, databases, Slack, and WhatsApp.
+- 🔍 **RAG & Vector Search**: High-performance retrieval pipelines using Pinecone, Qdrant, FAISS, and LangChain.
+- 🎙️ **Voice AI Systems**: Real-time STT & TTS integration using LiveKit, Deepgram, and ElevenLabs.
+- 🛠️ **Backend Microservices**: Production-ready REST APIs built with Python, FastAPI, Docker, and PostgreSQL.
+
+---
+
+### 🛠️ Tech Stack
+
+- **AI & LLMs**: OpenAI API, LangChain, LLaMA, Hugging Face, Mistral AI, Google Gemini, RAG
+- **Voice AI**: LiveKit, Deepgram (STT), ElevenLabs (TTS)
+- **Automation**: n8n, Webhooks, REST API Integration
+- **Backend & Languages**: Python, FastAPI, REST APIs, SQL, HTML, CSS
+- **Databases & Vector Stores**: PostgreSQL, SQLite, Qdrant, Pinecone, FAISS
+- **Tools & Platforms**: Git, GitHub, WhatsApp Cloud API, Slack API, Telegram Bot API
+
+---
+
+### 🚀 Selected Projects
+
+#### 🎙️ AI Call Agent
+> **Tech**: Python, LiveKit, Deepgram, ElevenLabs, Mistral AI, PostgreSQL
+- Real-time AI voice assistant with conversation memory, STT/TTS streaming, and multilingual support.
+- Low-latency voice processing and contextual response generation.
+
+#### 💬 WhatsApp Approval Service
+> **Tech**: Python, FastAPI, WhatsApp Cloud API, SQLite, Webhooks
+- Automated document approval system with real-time WhatsApp Cloud API integration and webhook listeners.
+
+#### 🤖 Slack Recipe Bot
+> **Tech**: n8n, Mistral AI, Pinecone, Slack API
+- AI-powered Slack bot built with n8n workflows and Pinecone vector search for automated recommendations.
+
+#### 🌤️ AI Weather Agent
+> **Tech**: n8n, Weather API, AI Workflows
+- Intelligent weather assistant built with n8n automation workflows and live weather API integrations.
+
+#### 📈 Stock Portfolio Tracker
+> **Tech**: Python
+- Investment valuation calculator and portfolio tracking application built with OOP principles.
+
+---
+
+### 📌 Current Focus
+
+- 🧠 Advanced Multi-Agent Orchestration & Autonomous Workflows
+- ⚡ High-throughput RAG Pipeline Optimization & Hybrid Search
+- 🏢 Enterprise AI Automation & Custom API Middleware
+
+---
+
+### 🎓 Education & Experience
+
+- 🏢 **AI & Automation Developer** | *Apex Innovation* (Lahore, Pakistan)
+- 💻 **Python Developer Intern** | *CodeAlpha* (Remote)
+- 🎓 **BS in Computer Science (BSCS)** | *KFUEIT* (2020 – 2024)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadMujtaba-AIE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMujtaba-AI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/AhmadMujtaba-AI/AhmadMujtaba-AI/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📬 Connect With Me
+
+- 📧 **Email**: [ahmadcheemaofficial@gmail.com](mailto:ahmadcheemaofficial@gmail.com)
+- 💼 **LinkedIn**: [Ahmad Mujtaba](https://www.linkedin.com)
+- 📱 **WhatsApp / Phone**: +92 344 0314568
+- 📍 **Location**: Lahore, Pakistan (Open to Remote Globally)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?AhmadMujtaba-AI&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
