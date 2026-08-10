@@ -74,12 +74,17 @@ I'm an **AI & Automation Developer** from Pakistan, specializing in **n8n workfl
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contribution Graph & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmadMujtaba-AI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmadMujtaba-AI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadMujtaba-AI&theme=react-dark" alt="Ahmad Mujtaba Contribution Graph" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadMujtaba-AI&theme=2077" alt="Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadMujtaba-AI&theme=2077" alt="Top Languages" width="48%" />
+</p>
+
 
 
 ### 🐍 Contribution Snake
